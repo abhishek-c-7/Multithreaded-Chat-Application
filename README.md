@@ -75,4 +75,5 @@ Internship Task 3 was both a challenging and rewarding experience. It helped me 
 
 OUTPUT : 
 
+![Image](https://github.com/user-attachments/assets/7ccbff73-35db-4a7b-bca4-2eae478b5122)
 
